@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-/ .idea/google_maps_api.xml
+/.idea/google_maps_api.xml
