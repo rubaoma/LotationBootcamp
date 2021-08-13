@@ -1,0 +1,4 @@
+com/rubdev/locationbootcamp/databinding/ActivityMapsBinding.java
+ com.rubdev.locationbootcamp.databinding.ActivityMapsBinding
+com/rubdev/locationbootcamp/BuildConfig.java
+ com.rubdev.locationbootcamp.BuildConfig
